@@ -7,3 +7,4 @@ $(document).ready(function(){
    $("#open").click(function(){
         $('.modal-container').css('transform','scale(1)');
     });
+});
